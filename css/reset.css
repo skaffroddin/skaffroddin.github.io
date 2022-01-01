@@ -555,13 +555,3 @@ input:-webkit-autofill:focus {
 	cursor: pointer;
 	display: inline-block;
 }
-.mp-color span.color1{background-color:#F2784B}
-.mp-color span.color2{background-color:#E74C3C}
-.mp-color span.color3{background-color:#D2527F;}
-.mp-color span.color4{background-color:#FF6853;}
-.mp-color span.color5{background-color:#16A085;}
-.mp-color span.color6{background-color:#82B440;}
-.mp-color span.color7{background-color:#36bfc4;}
-.mp-color span.color8{background-color:#4CAF50;}
-.mp-color span.color9{background-color:#FF9800;}
-.mp-color span.color10{background-color:#D35400;}
