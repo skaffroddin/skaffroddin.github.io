@@ -382,6 +382,8 @@ Version:	1.1
 #header.normal .logo a {
 	color: #353535;
 }
+
+
 /*=======================
 	End Header
 =========================*/ 
@@ -878,6 +880,7 @@ Version:	1.1
 =========================*/
 #my-service {
 	background: #F5F5F5;
+	margin-top: -30px;
 }
 #my-service .single-service {
 	text-align: center;
